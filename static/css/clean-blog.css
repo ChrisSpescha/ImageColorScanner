@@ -1,0 +1,7 @@
+.color-box {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+}
